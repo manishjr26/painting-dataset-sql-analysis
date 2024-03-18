@@ -1,0 +1,20 @@
+1.) count the number of museums in USA
+2.) display the details of all the artists who have visited The Museum of Modern Art
+3.) details of who visted museum_id =43
+4.) count the no of artists who have visited each museum
+5.) SELECT w.work_id, w.name AS work_name, a.full_name AS artist_name
+FROM work w
+JOIN artist a ON w.artist_id = a.artist_id;
+6.) Retrieve all works along with their associated museum names:
+7.) Display work of artist where nationality is German
+8.)  Retrieve the highest sales price among all products
+9.)  Retrieve all works with their IDs incremented by 100
+10.) Retrieve the number of characters in each artist's full name if they have more than 10 characters in their name.
+11.) Display name, city of museums that are open on sunday  or monday.
+12.) Retrive top 10 famous paintings subject
+13.) How many museums are open in each day
+14.) Museum that has most number of popular paintings 
+
+
+
+
