@@ -17,7 +17,7 @@ In this project, I have utilized SQL queries to explore and analyze the painting
 
 Below is the diagram illustrating the relationships between the tables:
 
-![SQL Table Diagram](Downloads/Paintaing_Diagram.png)
+![SQL Table Diagram](Paintaing_Diagram.jpg)
 
 
 ## Queries
